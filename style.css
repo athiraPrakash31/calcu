@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 150px;
+}
+.container button:hover{
+    background-color: rgb(107, 102, 102);
+    color: aliceblue;
+}
+.container button{
+    background-color: rgb(187, 182, 182);
+    color: rgb(17, 19, 20);
+    border: 1px ;
+
+}
+.container input{
+    height: 4rem;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.container .ac{
+    background-color: rgb(228, 149, 3);
+    color: rgb(19, 20, 20);
+    border: 1px ;
+}
